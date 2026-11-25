@@ -1,0 +1,28 @@
+default_to_none = true
+id = "mAgha-zukla-dvAdazI~mahAbhAratE"
+tags = [ "MahaBharata", "PuranaEvents", "Cat2",]
+jsonClass = "HinduCalendarEvent"
+shlokas = """
+एतस्मिन्नेव काले तु द्वादशीं माघमासिकीम् ।
+इष्टं गृहीत्वा नक्षत्रं धर्मराजो युधिष्ठिरः॥१४-८६-३॥
+समानीय महातेजाः सर्वान्भ्रातॄन्महीपतिः ।
+भीमं च नकुलं चैव सहदेवं च कौरव॥१४-८६-४॥
+प्रोवाचेदं वचः काले तदा धर्मभृतांवरः ।
+आमन्त्र्य वदतां श्रेष्ठो भीमं प्रहरतां वरम्॥१४-८६-५॥
+---महाभारते (कुम्भघोण-संस्करणम्)
+"""
+references_primary = [ "Mahābhārata (Kumbhakonam text; KK = Kumbhakonam, SV = Sastri-Vavilla, BORI = Pune critical) KK 14.86.3 = SV 14.90.3 = BORI 14.86.4; KK 14.86.4 = SV 14.90.4 = BORI 14.86.5; KK 14.86.5 = SV 14.90.5 = BORI 14.86.6",]
+
+[timing]
+default_to_none = true
+month_type = "lunar_month"
+month_number = 11
+anga_type = "tithi"
+anga_number = 12
+jsonClass = "HinduCalendarEventTiming"
+
+[description]
+en = "As stated in the Mahābhārata:\n- Narrative: On the dvādaśī of Māgha, choosing an auspicious nakṣatra, Yudhiṣṭhira summons Bhīma, Nakula and Sahadeva and sets the preparations for the aśvamedha in motion (MBh KK 14.86.3–5 = SV 14.90.3–5 = BORI 14.86.4–6) +++(pakṣa derived: in the same scene he says the Māghī full moon is at hand, so this is the śukla dvādaśī)+++"
+
+[names]
+sa = [ "युधिष्ठिरस्य अश्वमेध-सङ्कल्पः (माघ-शुक्ल-द्वादश्याम्)",]

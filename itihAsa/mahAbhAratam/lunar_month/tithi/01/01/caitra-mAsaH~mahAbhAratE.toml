@@ -12,8 +12,13 @@ shlokas = """
 ततोऽवतीर्णो जायेत वर्षे रमणके पुनः ।
 भुक्त्वा कामांस्ततस्तस्मिन्निह राजा भविष्यति॥१४-११३-२८॥
 ---महाभारते (कुम्भघोण-संस्करणम्)
+अस्मिन्सरसि सत्रैर्वै चैत्रे मासि पिनाकिनम् ।
+यजन्ते याजकाः सम्यक् परिवारं शुभार्थिनः॥३-१३२-१५॥
+अत्रोपस्पृश्य सरसि श्रद्दधानो जितेन्द्रियः ।
+क्षीणपापः शुभाँल्लोकान्प्राप्नुते नात्र संशयः॥३-१३२-१६॥
+---महाभारते (कुम्भघोण-संस्करणम्)
 """
-references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.22, 14.113.26, 14.113.27, 14.113.28",]
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.163.22, 14.113.26, 14.113.27, 14.113.28", "Mahābhārata (Kumbhakonam text; KK = Kumbhakonam, SV = Sastri-Vavilla, BORI = Pune critical) KK 3.132.15; KK 3.132.16",]
 
 [timing]
 default_to_none = true
@@ -24,7 +29,7 @@ anga_number = 1
 jsonClass = "HinduCalendarEventTiming"
 
 [description]
-en = "Throughout the month of caitra (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of caitra (MBh 13.163.22)\n- Observance: Ekabhakta through the month of caitra (MBh 14.113.26, 14.113.27, 14.113.28)"
+en = "Throughout the month of caitra (encoded at its start).\nAs stated in the Mahābhārata:\n- Observance: Ekabhakta through the month of caitra (MBh 13.163.22)\n- Observance: Ekabhakta through the month of caitra (MBh 14.113.26, 14.113.27, 14.113.28)\n- Observance: In the month of Caitra priests worship Pinākin (Śiva) with sattras at the lake by the Mānasa gate; one who bathes there with faith and self-control is freed of sin (MBh KK 3.132.15–16)"
 
 [names]
 sa = [ "महाभारतोक्ताः चैत्र-मास-नियमाः",]

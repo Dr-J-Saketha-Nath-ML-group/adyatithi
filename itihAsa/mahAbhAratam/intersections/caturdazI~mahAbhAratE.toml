@@ -13,8 +13,11 @@ shlokas = """
 आर्द्रायां जन्मनक्षत्रे विषुवे श्रवणेऽथवा ।
 ये ग्राम्यधर्मविरतास्ते नराः स्वर्गगाप्तिनः॥१४-१०६-१०८॥
 ---महाभारते (कुम्भघोण-संस्करणम्)
+कृष्णशुक्लचतुर्दश्यां गङ्गायां यो वसेन्नरः ।
+पुनात्यासप्तमं राजन्कुलं नास्त्यत्र संशयः॥३-६७-९५॥
+---महाभारते (शास्त्रि-वाविल्ल-संस्करणम्)
 """
-references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.134.18, 13.134.20, 13.161.30, 14.106.108",]
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.134.18, 13.134.20, 13.161.30, 14.106.108", "Mahābhārata (Sastri-Vavilla text; KK = Kumbhakonam, SV = Sastri-Vavilla, BORI = Pune critical) KK 3.82.95 = SV 3.67.95 = BORI 3.82.84",]
 
 [timing]
 default_to_none = true
@@ -30,7 +33,7 @@ anga_type = "tithi"
 anga_number = [ 14, 29,]
 
 [description]
-en = "As stated in the Mahābhārata:\n- Observance: Śrāddha on caturdaśī is inauspicious (MBh 13.134.18, 13.134.20)\n- Observance: Brahmacarya on tithi 14 (MBh 13.161.30)\n- Observance: Abstain from intercourse on caturdaśī (MBh 14.106.108)"
+en = "As stated in the Mahābhārata:\n- Observance: Śrāddha on caturdaśī is inauspicious (MBh 13.134.18, 13.134.20)\n- Observance: Brahmacarya on tithi 14 (MBh 13.161.30)\n- Observance: Abstain from intercourse on caturdaśī (MBh 14.106.108)\n- Observance: One who stays at the Gaṅgā on the caturdaśī of the dark and the bright fortnights purifies his family to the seventh generation (MBh SV 3.67.95; the Kumbhakonam KK 3.82.95 reads instead \"both fortnights at Gayā\")"
 
 [names]
 sa = [ "महाभारतोक्ताः चतुर्दशी-नियमाः",]

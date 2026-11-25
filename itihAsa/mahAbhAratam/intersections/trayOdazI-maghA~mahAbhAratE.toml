@@ -1,6 +1,6 @@
 default_to_none = true
 id = "trayOdazI-maghA~mahAbhAratE"
-tags = [ "MahaBharata", "Vratam", "Cat4",]
+tags = [ "MahaBharata", "Vratam", "Cat4", "PuranaEvents", "Cat2",]
 jsonClass = "HinduCalendarEvent"
 shlokas = """
 गाथाश्चाप्यत्र गायन्ति पितृगीता युधिष्ठिर ।
@@ -10,8 +10,15 @@ shlokas = """
 आजेन वाऽपि लौहेन मघास्वेव यतव्रतः ।
 हस्तिच्छायासु विधिवत्कर्णव्यजनवीजितम्॥१३-१३५-१३॥
 ---महाभारते (कुम्भघोण-संस्करणम्)
+सदा बाणधनुष्पाणिरभवत्कुरुनन्दनः ।
+मघे चन्द्रमसा युक्ते सिंहे चाभ्युदिते गुरौ॥१-१२९-६६॥
+दिवा मध्यगते सूर्ये तिथौ पुण्ये त्रयोदशे ।
+पित्र्ये मुहूर्ते सा कुन्ती सुषुवे भीममच्युतम्॥१-१२९-६७॥
+यस्मिन्नहनि भमस्तु जज्ञे भीमपराक्रमः ।
+तामेव रात्रिं पूर्वां तु जज्ञे दुर्योधनो नृपः॥१-१२९-६८॥
+---महाभारते (कुम्भघोण-संस्करणम्)
 """
-references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.135.11, 13.135.12, 13.135.13",]
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.135.11, 13.135.12, 13.135.13", "Mahābhārata (Kumbhakonam text; KK = Kumbhakonam, SV = Sastri-Vavilla, BORI = Pune critical) KK 1.129.66 = SV 1.110.63, 1.110.64; KK 1.129.67 = SV 1.110.65; KK 1.129.68 = SV 1.110.66 = BORI 1.114.14",]
 
 [timing]
 default_to_none = true
@@ -30,7 +37,7 @@ anga_type = "nakshatra"
 anga_number = 10
 
 [description]
-en = "As stated in the Mahābhārata:\n- Observance: Pitṛ-gāthā: pāyasa with ghee on trayodaśī in Maghā in dakṣiṇāyana (MBh 13.135.11, 13.135.12, 13.135.13)"
+en = "As stated in the Mahābhārata:\n- Observance: Pitṛ-gāthā: pāyasa with ghee on trayodaśī in Maghā in dakṣiṇāyana (MBh 13.135.11, 13.135.12, 13.135.13)\n- Narrative: Birth of Bhīmasena to Kuntī — the moon in Maghā, Jupiter risen in Siṃha, the sun at the meridian, on the holy trayodaśī, in the Pitrya muhūrta; Duryodhana was born in the night before that day (MBh KK 1.129.66–68 = SV 1.110.63–66; BORI 1.114.14 for Duryodhana) +++(pakṣa not stated; madhyāhna)+++"
 
 [names]
-sa = [ "महाभारतोक्ताः त्रयोदशी-मघा-नियमाः",]
+sa = [ "भीमसेन-जन्म (मघा-त्रयोदश्याम्), पितृगाथा-पायसं च",]

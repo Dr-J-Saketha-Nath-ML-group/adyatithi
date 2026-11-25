@@ -12,8 +12,11 @@ shlokas = """
 भ्रामयित्वा शतगुणं जानुभ्यां भरतर्षभ ।
 बभञ्ज पृष्टं सङ्क्षिप्य निष्पिष्य विननाद च॥२-२५-१०॥
 ---महाभारते (कुम्भघोण-संस्करणम्)
+तद्युद्धमासीच्च तयोस् समवेतं महात्मनोः ।
+पञ्चदश्यां निशायां तु प्रहीणात्माऽभवत् क्लमात्॥२-२२-६१॥
+---महाभारते (शास्त्रि-वाविल्ल-संस्करणम्)
 """
-references_primary = [ "Mahābhārata (Kumbhakonam recension) 2.24.34, 2.24.37, 2.25.9, 2.25.10",]
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 2.24.34, 2.24.37, 2.25.9, 2.25.10", "Mahābhārata (Sastri-Vavilla text; KK = Kumbhakonam, SV = Sastri-Vavilla, BORI = Pune critical) SV 2.22.61",]
 
 [timing]
 default_to_none = true
@@ -26,7 +29,7 @@ jsonClass = "HinduCalendarEventTiming"
 
 
 [description]
-en = "As stated in the Mahābhārata:\n- Narrative: Jarāsandha desists exhausted on caturdaśī night and is slain by Bhīma that night (MBh 2.24.34, 2.24.37, 2.25.9, 2.25.10) +++(tithi derived: the fifteen-day bout began on the first of Kārtika (śukla pratipad, amānta), so its caturdaśī is śukla)+++"
+en = "As stated in the Mahābhārata:\n- Narrative: Jarāsandha desists exhausted on caturdaśī night and is slain by Bhīma that night (MBh 2.24.34, 2.24.37, 2.25.9, 2.25.10) +++(tithi derived: the fifteen-day bout began on the first of Kārtika (śukla pratipad, amānta), so its caturdaśī is śukla)+++\n- Variant: the Sastri-Vavilla text says Jarāsandha became exhausted on the fifteenth night of the bout, where the Kumbhakonam and BORI texts have the caturdaśī night (MBh SV 2.22.61)"
 
 [names]
 sa = [ "भीमेन जरासन्ध-वधः",]

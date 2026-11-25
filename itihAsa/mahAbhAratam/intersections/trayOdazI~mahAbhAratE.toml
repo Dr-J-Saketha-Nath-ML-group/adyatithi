@@ -6,8 +6,12 @@ shlokas = """
 अमावास्यां त्रयोदश्यां नवम्यां प्रतिपत्सु च ।
 तिथिष्वेतासु तुष्यन्ति दत्तेनेह पितामहाः॥१३-२३८-८॥
 ---महाभारते (कुम्भघोण-संस्करणम्)
+द्वादश्यामीहमानस्य नित्यमेव प्रदृश्यते ।
+रजतं बहुवित्तं च सुवर्णं च मनोरमम् ।
+ज्ञातीनां तु भवेच्छ्रेष्ठश्श्राद्धं कुर्वंस्त्रयोदशीम्॥१३-७६-१७॥
+---महाभारते (शास्त्रि-वाविल्ल-संस्करणम्)
 """
-references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.238.8",]
+references_primary = [ "Mahābhārata (Kumbhakonam recension) 13.238.8", "Mahābhārata (Sastri-Vavilla text; KK = Kumbhakonam, SV = Sastri-Vavilla, BORI = Pune critical) KK 13.134.16 = SV 13.76.17 = BORI 13.87.15",]
 
 [timing]
 default_to_none = true
@@ -23,7 +27,7 @@ anga_type = "tithi"
 anga_number = [ 13, 28,]
 
 [description]
-en = "As stated in the Mahābhārata:\n- Observance: Śrāddha on tithi 13 pleases the pitṛs (MBh 13.238.8)"
+en = "As stated in the Mahābhārata:\n- Observance: Śrāddha on tithi 13 pleases the pitṛs (MBh 13.238.8)\n- Observance: One who performs śrāddha on trayodaśī becomes the foremost among his kinsmen (MBh SV 13.76.17, third line; absent in KK 13.134.16 and BORI 13.87.15)"
 
 [names]
 sa = [ "महाभारतोक्ताः त्रयोदशी-नियमाः",]
